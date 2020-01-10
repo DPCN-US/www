@@ -5,7 +5,7 @@ tags: ["system", "about"]
 toc: true
 ---
 
-> ℹ️ This is a theoretical system based on Colorado [front range](https://en.wikipedia.org/wiki/Front_Range) ham communities. These organizations are examples and have not (yet) expressed interest in utilizing DPCN.
+ℹ️ This is a theoretical system based on Colorado [front range](https://en.wikipedia.org/wiki/Front_Range) ham communities. These organizations are examples and have not (yet) expressed interest in utilizing DPCN.
 
 <!--more-->
 
