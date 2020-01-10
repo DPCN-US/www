@@ -4,7 +4,7 @@ draft: false
 tags: ["about"]
 ---
 
-DPCN networks do not discriminate or exclude, as long as you follow the [code of conduct](/about/code-of-conduct).
+DPCN networks do not discriminate or exclude and will not kick you out as long as you follow the [code of conduct](/about/code-of-conduct).
 
 <!--more-->
 

@@ -1,6 +1,5 @@
 ---
 title: "Code of Conduct"
-draft: false
 tags: ["about"]
 ---
 
@@ -18,6 +17,8 @@ By using DPCN, you agree to abide by the following guidelines:
 * No racism, sexism, or discrimination based on any [federally protected classes](https://en.wikipedia.org/wiki/Protected_group).
 * No illegal activity.
 * Abide by all relevant FCC regulations.
-* Do not share codeplug with non-DPCN users.
+* Do not share your radio codeplug with non-DPCN users.
 
-Failure to adhere to this guide may result in banishment from the system and/or termination of membership.
+Remember, private calls and text messages are not only allowed but encouraged.
+
+Failure to adhere to this guide may result in removal from the system and/or termination of membership.
