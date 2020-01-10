@@ -50,16 +50,3 @@ Digital Private Calling Network (DPCN) is a response to the current state of ham
 This type of trunking is not part of the DMR standard. It's a proprietary addition by equipment manufacturers. So all users on a DPCN system must use the same make of radio. These will typically be the more expensive commercial radio models.
 
 Also, the number of different radio models to choose from may be quite limited, because each radio type needs a separate configuration template in the management software.
-
-# How to join
-
-Any Technician class (entry level) or above will be able to use DPCN. Local systems vary but tend to be in the 70cm/440MHz band.
-
-1. Get your amateur radio license.
-   * The [ARRL](http://www.arrl.org/getting-licensed) is a good starting point.
-   * If there's one in your city, [Ham Radio Outlet](https://www.hamradio.com) sells study guides.
-1. Get a global radio ID from [thes folks](https://radioid.net).
-1. Find your local DPCN group.
-1. Purchase a comatible radio and have them program it.
-1. Maybe learn how to operate your radio.
-1. Talk!
