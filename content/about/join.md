@@ -1,11 +1,10 @@
 ---
 title: "How to join"
-date: 2020-01-10T07:24:09-07:00
 draft: true
 tags: ["about"]
 ---
 
-Any Technician class (entry level) or above will be able to use DPCN. Local systems vary but tend to be in the 70cm/440MHz band.
+Any Technician class (entry level) or above can use DPCN. Local systems can vacy but will tend to be in the 70cm/440MHz band.
 
 <!--more-->
 
@@ -14,5 +13,7 @@ Any Technician class (entry level) or above will be able to use DPCN. Local syst
    * If there's one in your city, [Ham Radio Outlet](https://www.hamradio.com) sells study guides.
 1. Get a global radio ID from [these folks](https://radioid.net).
 1. Contact your [local DPCN group](/system).
-1. Purchase a compatible radio and have DPCN program it.
+   * Or start your own if there isn't one.
+1. Purchase a compatible radio and have the local DPCN group program it.
 1. Talk!
+   * Please read the [code of conduct](/about/code-of-conduct).

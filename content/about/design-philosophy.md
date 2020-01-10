@@ -5,7 +5,7 @@ tags: ["about"]
 toc: true
 ---
 
-DPCN systems offload local one-on-one communications from other networks in order to free up resources on more mission-critical systems.
+DPCN systems offload local one-on-one communications from other radio networks in order to free up resources on more mission-critical systems.
 
 <!--more-->
 

@@ -13,6 +13,11 @@ By using DPCN, you agree to abide by the following guidelines:
 * No profanity.
 * No hate speech.
 * No personal attacks.
+* No intentional interference.
+* No commercial activity.
+* No racism, sexism, or discrimination based on any [federally protected classes](https://en.wikipedia.org/wiki/Protected_group).
+* No illegal activity.
+* Abide by all relevant FCC regulations.
 * Do not share codeplug with non-DPCN users.
 
 Failure to adhere to this guide may result in banishment from the system and/or termination of membership.

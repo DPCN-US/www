@@ -3,9 +3,26 @@ title: "Support"
 date: 2020-01-10T07:12:29-07:00
 draft: true
 menu: main
-weight: 4
-featured_image: ''
+weight: 40
+featured_image: "/images/sound-speaker-radio-microphone-484.jpg"
+omit_header_text: true
 ---
 
-Hello
+We appreciate your [financial support](https://www.patreon.com/dpcn) for our [mission](/about/mission). Please support us [here](https://www.patreon.com/dpcn).
 
+If you are unable to donate money but you have a skill we could use, you can donate your time instead. Please [contact us](/contact).
+
+## Membership Levels
+
+DPCN systems will always be free to use. All that's required is an amateur radio license and a compatible radio.
+
+To support system operations, [patrons](https://www.patreon.com/dpcn) may optionally choose from the following membership tiers:
+
+Tier | Cost | Benefit
+---- |---- | ------
+Supporter | $1/month | Exclusive updates via [Patreon](https://www.patreon.com/dpcn) 
+Private Contact | $5/month | Add your callsign and name to the contact list of all radios on the system. 
+Local Talkgroup | $10/month | Add a dedicated talkgroup to one repeater on the system. Recommended for smaller clubs with membership within range of a single repeater. 
+Wide Talkgroup | $20/month | Add a dedicated talkgroup to all repeaters on the system. Recommended  for larger regional organizations with distributed membership. 
+
+Your patronage helps support system maintenance and expansion.
