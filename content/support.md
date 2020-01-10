@@ -15,11 +15,11 @@ If you are unable to donate money but you have a skill we could use, you can don
 
 DPCN systems will always be free to use. All that's required is an amateur radio license and a compatible radio.
 
-To support system operations, [patrons](https://www.patreon.com/dpcn) may optionally choose from the following membership tiers:
+However, the systems do incur operational costs. DPCN [patrons](https://www.patreon.com/dpcn) receive special benefits and may choose from the following membership tiers:
 
 Tier | Cost | Benefit
 ---- |---- | ------
-Supporter | $1/month | Exclusive updates via [Patreon](https://www.patreon.com/dpcn) 
+Supporter | $1/month | Access to exclusive news and updates not released to the general public. 
 Private Contact | $5/month | Add your callsign and name to the contact list of all radios on the system. 
 Local Talkgroup | $10/month | Add a dedicated talkgroup to one repeater on the system. Recommended for smaller organizations with membership within range of a single repeater. 
 Wide Talkgroup | $20/month | Add a dedicated talkgroup to all repeaters on the system. Recommended  for regional organizations with distributed membership. 
