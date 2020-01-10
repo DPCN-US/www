@@ -2,7 +2,7 @@
 title: "The Simple Network"
 author: K0PRW
 featured_image: '/images/abstract-art-blur-bright-373543.jpg'
-date: 2020-01-11
+date: 2020-01-08
 ---
 
 All the technology surrounding ham radio can be intimidating. DPCN can help.
