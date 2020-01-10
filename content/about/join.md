@@ -4,7 +4,7 @@ draft: true
 tags: ["about"]
 ---
 
-Any Technician class (entry level) or above can use DPCN. Local systems can vacy but will tend to be in the 70cm/440MHz band.
+Any Technician class (entry level) or above can use DPCN. Local systems can vary but will tend to be in the 70cm/440MHz band.
 
 <!--more-->
 
