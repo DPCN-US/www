@@ -1,7 +1,6 @@
 ---
 title: "Support"
 date: 2020-01-10T07:12:29-07:00
-draft: true
 menu: main
 weight: 40
 featured_image: "/images/sound-speaker-radio-microphone-484.jpg"
@@ -22,7 +21,8 @@ Tier | Cost | Benefit
 ---- |---- | ------
 Supporter | $1/month | Exclusive updates via [Patreon](https://www.patreon.com/dpcn) 
 Private Contact | $5/month | Add your callsign and name to the contact list of all radios on the system. 
-Local Talkgroup | $10/month | Add a dedicated talkgroup to one repeater on the system. Recommended for smaller clubs with membership within range of a single repeater. 
-Wide Talkgroup | $20/month | Add a dedicated talkgroup to all repeaters on the system. Recommended  for larger regional organizations with distributed membership. 
+Local Talkgroup | $10/month | Add a dedicated talkgroup to one repeater on the system. Recommended for smaller organizations with membership within range of a single repeater. 
+Wide Talkgroup | $20/month | Add a dedicated talkgroup to all repeaters on the system. Recommended  for regional organizations with distributed membership. 
+Zone | $50/month | Add a dedicated zone with multiple talkgroups. Talkgroups can be local or wide. Recommended for large organizations with multiple sub-organizations. 
 
 Your patronage helps support system maintenance and expansion.

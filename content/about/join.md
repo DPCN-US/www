@@ -1,6 +1,6 @@
 ---
 title: "How to join"
-draft: true
+draft: false
 tags: ["about"]
 ---
 

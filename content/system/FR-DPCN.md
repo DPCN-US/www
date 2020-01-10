@@ -1,6 +1,6 @@
 ---
 title: "[Proposed] Front Range DPCN"
-draft: true
+draft: false
 tags: ["system", "about"]
 toc: true
 ---
@@ -37,7 +37,7 @@ FR-DPCN uses [Motorola Solutions](https://www.motorolasolutions.com/en_us/produc
 
 > Note to FR-DPCN users: Please remember to use private calling for extended one-on-one communications. Utilizing a wide-area channel ties up resources whereas private calls only utilize timeslots local to the respective repeater sites.
 
-| Talkgroup     | Repeater(s)           | Description                                                  |
+| Channel       | Repeater(s)           | Description                                                  |
 | ------------- | --------------------- | ------------------------------------------------------------ |
 | None          | All                   | No default contact, must select from menu                    |
 | Wide          | All                   | Wide-area general calling                                    |
@@ -57,6 +57,7 @@ FR-DPCN uses [Motorola Solutions](https://www.motorolasolutions.com/en_us/produc
 | BCARES        | Boulder               | Boulder County ARES[^3]                                      |
 | CO ARES       | All                   | Colorado ARES[^3]                                            |
 | DRC           | Denver                | Denver Radio Club                                            |
+| LARC          | Ft. Collins           | Longmont Amateur Radio Club                                  |
 | NCARC         | Boulder,  Ft. Collins | Northern Colorado Amateur Radio Club                         |
 | PARC          | Colo. Springs         | Pueblo Amateur Radio Club                                    |
 

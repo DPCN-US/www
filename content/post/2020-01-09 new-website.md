@@ -4,6 +4,7 @@ tags: ["meta"]
 title: "New Website"
 slug: hello-world
 date: 2020-01-09
+draft: false
 ---
 
 DPCN now has a website. This website. All the information hitherto kept in markdown files in [Joplin](https://joplinapp.org/) is now in the [about](/about) and [system](/system) sections.

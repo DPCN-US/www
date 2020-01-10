@@ -1,13 +1,13 @@
 ---
 title: "Phil"
-date: 2020-01-10T09:28:01-07:00
-draft: true
+draft: false
 type: page
+weight: 10
 ---
 
 ![Phil's professional headshot](/images/headshot-phil-cablelabs.jpg)
 
-Phil's callsign is K0PRW. He has been a ham since 1997, and has an interest in technology and emergency preparedness.
+Phil's callsign is K0PRW. He has been licensed since 1997 and has an interest in technology and emergency preparedness.
 
 <!--more-->
 

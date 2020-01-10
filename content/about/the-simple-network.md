@@ -1,6 +1,6 @@
 ---
 title: "The Simple Network"
-draft: true
+draft: false
 tags: ["about"]
 ---
 

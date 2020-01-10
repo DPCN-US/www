@@ -1,6 +1,6 @@
 ---
 title: "Design Philosophy"
-draft: true
+draft: false
 tags: ["about"]
 toc: true
 ---
@@ -35,11 +35,11 @@ Here are a few examples of why hams may want to join a DPCN system. DPCN users m
 
 See the [technology](/about/technology) page for information on how DPCN implements radio systems.
 
-## Mission: Club Support
+## Club Support
 
 Your club or association is welcome to use DPCN and it can have a dedicated talkgroup on the system. Just have interested club members join DPCN and administrators will add a talkgroup to the local system. DPCN's mission is to provide advanced and modern infrastructure support to ham radio organizations and individuals.
 
-## Mission: Emergency Preparedness
+## Emergency Preparedness
 
 You are more likely to reach other hams in a true emergency if they leave their radios on. DPCN's quiet nature encourages hams to leave their radios on 24/7. You can call an emergency talkgroup and, depending on the system configuration, *everyone's* radios will hear you. This is an invaluable public safety benefit.
 
@@ -74,23 +74,3 @@ Learn how to administer and maintain a modern digital trunked radio system. Ham 
 ## Regional first
 
 DPCN is focused on local and regional communities where ham ties are strongest and tactical radio traffic is most useful. Other global networks such as [BrandMeister](https://brandmeister.network) exist for worldwide or long range communication. DPCN focuses on local and regional communications and does not typically link with other systems unless the users request it. This is handled on a local level with the system administrators and membership, so there is no hard and fast rule regarding this practice.
-
-## Nonprofit
-
-501(c)(3) status (coming soon) means donations are tax deductible. Contact the board if you wish to make a large donation.
-
-### Dues structure
-
-`Operating cost / number of members`
-
-The more hams who join, the lower the annual dues. The purpose of the dues is strictly to cover operational costs and enhance the network where need is greatest. The board will be responsible for setting a savings fund goal for network maintenance and expansion.
-
-### Donated radios
-
-Hams who cannot afford their own DPCN radio can join a waitlist. Donated radios will be assigned to waitlisted hams on a first-come, first-served basis. Donated radios will return to circulation when the member returns the radio or ceases to be a member.
-
-### National organization, local scope
-
-Local chapters are responsible for building their own systems. The national organization exists to provide purchasing power, tax benefits, system and paperwork templates, operational infrastructure, and to reduce administrative overhead. This leaves the local chapters free to focus on building their systems and memberships in order to best serve their local communities.
-
-Local chapters will receive national support based on a balance of the size of their membership and local infrastructure needs.

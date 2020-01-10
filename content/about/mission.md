@@ -1,7 +1,7 @@
 ---
 title: "Mission"
 date: 2020-01-10T07:34:45-07:00
-draft: true
+draft: false
 tags: ["about"]
 ---
 

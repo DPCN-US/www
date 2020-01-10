@@ -1,6 +1,6 @@
 ---
 title: "Technology"
-draft: true
+draft: false
 tags: ["about"]
 ---
 

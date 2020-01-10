@@ -1,6 +1,6 @@
 ---
 title: "New Hams"
-draft: true
+draft: false
 tags: ["about"]
 ---
 
