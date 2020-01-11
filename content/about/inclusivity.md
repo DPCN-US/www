@@ -4,15 +4,13 @@ draft: false
 tags: ["about"]
 ---
 
-DPCN networks do not discriminate or exclude and will not kick you out as long as you follow the [code of conduct](/about/code-of-conduct).
+DPCN networks do not discriminate or exclude. Hams of all races, religions, ethnicities, orientations, and identities are welcome.
 
 <!--more-->
 
-Hams of all races, religions, ethnicities, orientations, and identities are welcome. The only qualifications are having a ham license and a compatible radio. Via remote management, DPCN can program your radio for you. DPCN is the perfect beginnner's network, while being flexible enough for advanced users.
-
 ## No politics, no cliques, no exclusion.
 
-Any ham with a valid license and a compatible radio can join. Users are asked to follow the [code of conduct](/about/code-of-conduct) and those who abuse their system privileges may be locked out.
+Any ham with a valid license and a compatible radio can join. Users are asked to follow the [code of conduct](/about/code-of-conduct) and those who abuse their system privileges or may be locked out.
 
 ## Introverts welcome
 
@@ -26,7 +24,7 @@ Visually impaired hams can add speech synthesis to their radios and the system a
 
 Have as many radios on the system as you want, talk as much as you want, with whomever you want. You buy the radios and DPCN will program them and maintain them for you, typically over the air: codeplug updates be performed over RF and firmware upgrades over Wi-Fi.
 
-Don't worry about offending other hams: when you want to talk to another specific ham, use private calling. Talk about whatever you want, from the mundane to the provocative. Local DPCN systems can organize talkgroups by subject matter in addition to by clubs and other member organizations.
+Don't worry about offending other hams: when you want to talk to another specific ham, use private calling. Talk about whatever you want, from the mundane to the provocative. Local DPCN systems can organize talkgroups by subject matter as well as by clubs or other member organizations.
 
 ## Club friendly
 

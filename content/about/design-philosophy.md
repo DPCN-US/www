@@ -9,7 +9,7 @@ DPCN systems offload local one-on-one communications from other radio networks i
 
 <!--more-->
 
-Most ham DMR networks discourage the use of private calling. Reasons vary but range from adhering to social norms to accommodating technical limitations. For example, on some DMR networks, private calling will tie up *all* linked repeaters in the system, even though both parties may be on the same repeater.
+Most ham DMR networks discourage the use of private calling. Reasons vary but range from social norms to technical limitations. For example, on some DMR networks, private calls tie up *all* linked repeaters in the system, even though both parties may be on the same repeater.
 
 Whatever your individual use case for private calling, it is a legitimate form of communication and perfectly legal on ham radio. DPCN allows and encourages the use of private calling on its systems.
 
@@ -18,8 +18,8 @@ Whatever your individual use case for private calling, it is a legitimate form o
 Here are a few examples of why hams may want to join a DPCN system. DPCN users may wish to:
 
 * Maintain high personal availability via ham radio.
-* Organize local radio traffic by purpose and function and not by repeater system[^1] coverage.
-* Play with the latest in high-tech two-way commercial radios and system components.
+* Organize radio traffic by purpose or function and not by repeater system[^1] coverage.
+* Play with the latest high-tech two-way commercial radios and system components.
 * Gain real-world experience with modern digital two-way radio technology.
 * Maintain emergency preparedness.
 * Be on call for family and friends.
@@ -41,7 +41,7 @@ Your club or association is welcome to use DPCN and it can have a dedicated talk
 
 ## Emergency Preparedness
 
-You are more likely to reach other hams in a true emergency if they leave their radios on. DPCN's quiet nature encourages hams to leave their radios on 24/7. You can call an emergency talkgroup and, depending on the system configuration, *everyone's* radios will hear you. This is an invaluable public safety benefit.
+You are more likely to reach other hams in a true emergency if they leave their radios on. DPCN's quiet nature encourages hams to leave their radios on 24/7. You can call an emergency talkgroup and, depending on the system configuration, *everyone's* radios will hear you. This is an invaluable public and personal safety benefit.
 
 ## Advanced network features
 
@@ -55,7 +55,7 @@ All transmissions on DPCN are identifiable, even if the operator does not use hi
 
 ## Ancillary benefits
 
-Ham radio has the potential to aid in disaster response, recovery, and everyday emergencies. A large DPCN sysyetm with many diverse users increases response capabilities.
+Ham radio has the potential to aid in disaster response, recovery, and everyday emergencies. A large DPCN system with many diverse users increases response capabilities.
 
 ### Public safety
 

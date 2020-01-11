@@ -11,9 +11,9 @@ Any Technician class (entry level) or above can use DPCN. Local systems can vary
 1. Get your amateur radio license.
    * The [ARRL](http://www.arrl.org/getting-licensed) is a good starting point.
    * If there's one in your city, [Ham Radio Outlet](https://www.hamradio.com) sells study guides.
-1. Get a global radio ID from [these folks](https://radioid.net).
+1. Get a global [radio ID](http://radioid.net).
 1. Contact your [local DPCN group](/system).
    * Or start your own if there isn't one.
 1. Purchase a compatible radio and have the local DPCN group program it.
 1. Talk!
-   * Please read the [code of conduct](/about/code-of-conduct).
+   * Please see the [code of conduct](/about/code-of-conduct).

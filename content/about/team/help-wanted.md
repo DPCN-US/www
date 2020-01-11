@@ -18,6 +18,6 @@ We are looking for passionate, dynamic people with knowledge in:
 
 * Graphic Design
 
-* Technical Operations (RF, DMR, networking, etc.)
+* Technical Operations (RF, DMR, networking, repeater installation, etc.)
 
 Amateur radio license *not* required. [Contact us](/contact) if you're interested.

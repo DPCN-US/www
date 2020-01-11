@@ -12,11 +12,11 @@ All the technology surrounding ham radio can be intimidating. DPCN can help.
 
 Ham radio is a wealth of information, technologies, and choices. Even an activity as simple as talking between two handheld radios requires coordination of bands, frequencies, modes, codes, and all sorts of settings. All just to get one radio to talk to another.
 
-Many people become hams because they are already interested in these things. They have no problem keeping these technical details in their brains and using it to perform [RF](https://en.wikipedia.org/wiki/Radio_frequency) magic.
+Many people become hams because they are already interested in these things. They have no problem keeping these technical details in their minds and using it to perform [RF](https://en.wikipedia.org/wiki/Radio_frequency) magic.
 
-However, many other hams become licensed for other reasons: emergency preparedness, friends and/or family have licenses, their group or club encourages them in order to support their activity, or other reasons that do not involve the scientific and technical side of radio.
+However, many other hams become licensed for other reasons: emergency preparedness, friends and/or family have licenses, their group or club encourages them, or other reasons that do not involve the scientific and technical side of radio.
 
-For these folks, programming radios is at best a chore and at worst a daunting task. Modern ham radio manufacturers operate under certain assumptions about radio operators. While cramming every possible feature imaginable into the radio, they often forget about [user experience](https://en.wikipedia.org/wiki/User_experience): the design choices that go into making a radio easy to use or not. Not just easy to use for the tech-minded ham.
+For these folks, programming radios is at best a chore and at worst a daunting task. Multiply that by a factor of ten for digital modes. Modern ham radio manufacturers operate under certain assumptions about radio operators. While cramming every possible feature imaginable into the radio, they often forget about [user experience](https://en.wikipedia.org/wiki/User_experience) and the design choices that go into making a radio easy to use or not. Not just easy to use for the tech-minded ham.
 
 For those hams who simply want to be able to talk, DPCN can help. If you are within range of the system, DPCN can program your radio remotely whenever the settings need to be updated. These commercial radios are designed for everyday, heavy-duty use so they are rugged, reliable, and much simpler to learn and use than ham-centric radio models.
 

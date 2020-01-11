@@ -7,7 +7,7 @@ weight: 10
 
 ![Phil's professional headshot](/images/headshot-phil-cablelabs.jpg)
 
-Phil's callsign is K0PRW. He has been licensed since 1997 and has an interest in technology and emergency preparedness. Phil's roles in DPCN include founder, systems architect and engineer, president, webmaster, recruiter, and catchall.
+Phil's callsign is K0PRW. He has been licensed since 1997 and has an interest in technology and emergency preparedness. Phil's roles at DPCN include founder, systems architect and engineer, president, webmaster, recruiter, and catchall.
 
 <!--more-->
 

@@ -4,7 +4,7 @@ draft: false
 tags: ["about"]
 ---
 
-501(c)(3) status (coming soon) means donations are tax deductible. Contact the board if you wish to make a large donation.
+501(c)(3) status (coming soon) means donations are tax deductible. [Contact us](/contact) if you wish to make a large donation.
 
 <!--more-->
 
@@ -20,6 +20,6 @@ Hams who cannot afford their own DPCN radio can join a waitlist. Donated radios 
 
 ## National organization, local scope
 
-Local groups are responsible for building their own systems. The national organization exists to provide purchasing power, tax benefits, system and paperwork templates, operational infrastructure, and to reduce administrative overhead. This leaves local groups free to focus on building their systems and users in order to best serve their local communities.
+Local groups are responsible for building their own systems. The national organization exists to provide purchasing power, tax benefits, system and paperwork templates, operational infrastructure, and to reduce administrative overhead. This leaves local groups free to focus on growing their systems and memberships in order to best serve their local communities.
 
 Local groups will receive national support based on a balance of the size of their membership and local infrastructure needs.

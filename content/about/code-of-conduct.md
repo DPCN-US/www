@@ -17,6 +17,7 @@ By using DPCN, you agree to abide by the following guidelines:
 * No racism, sexism, or discrimination based on any [federally protected classes](https://en.wikipedia.org/wiki/Protected_group).
 * No illegal activity.
 * Abide by all relevant FCC regulations.
+* Do not utilize the emergency channel unless it is a true emergency.
 * Do not share your radio codeplug with non-DPCN users.
 
 Remember, private calls and text messages are not only allowed but encouraged.

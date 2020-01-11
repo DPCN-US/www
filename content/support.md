@@ -7,9 +7,9 @@ featured_image: "/images/sound-speaker-radio-microphone-484.jpg"
 omit_header_text: true
 ---
 
-We appreciate your [financial support](https://www.patreon.com/dpcn) for our [mission](/about/mission). Please support us [here](https://www.patreon.com/dpcn).
+Thank you for your [financial support](https://www.patreon.com/dpcn).
 
-If you are unable to donate money but you have a skill we could use, you can donate your time instead. Please [contact us](/contact).
+If you are unable to donate money but have a [skill we could use](/about/team/help-wanted), you can volunteer your time instead. Please [contact us](/contact).
 
 ## Membership Levels
 
@@ -19,11 +19,11 @@ However, the systems do incur operational costs. DPCN [patrons](https://www.patr
 
 Tier | Cost | Benefit
 ---- |---- | ------
-Supporter | $1/month | Access to exclusive news and updates not released to the general public. 
+Supporter | $1/month | Access to exclusive news and updates not yet released to the general public. 
 Private Contact | $5/month | Add your callsign and name to the contact list of all radios on the system. 
 Local Talkgroup | $10/month | Add a dedicated talkgroup to one repeater on the system. Recommended for smaller organizations with membership within range of a single repeater. 
 Wide Talkgroup | $20/month | Add a dedicated talkgroup to all repeaters on the system. Recommended  for regional organizations with distributed membership. 
 Zone | $50/month | Add a dedicated zone with multiple talkgroups. Talkgroups can be local or wide. Recommended for large organizations with multiple sub-organizations. 
 Codeplug | $100/month | Get a dedicated codeplug, with all zones, channels, and contacts specified by you. This represents a substantial investment of time by system engineers. 
 
-Your patronage helps support system maintenance and expansion.
+Your patronage helps support system maintenance and expansion and is greatly appreciated.
