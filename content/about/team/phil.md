@@ -7,7 +7,7 @@ weight: 10
 
 ![Phil's professional headshot](/images/headshot-phil-cablelabs.jpg)
 
-Phil's callsign is K0PRW. He has been licensed since 1997 and has an interest in technology and emergency preparedness.
+Phil's callsign is K0PRW. He has been licensed since 1997 and has an interest in technology and emergency preparedness. Phil's roles in DPCN include founder, systems architect and engineer, president, webmaster, recruiter, and catchall.
 
 <!--more-->
 
@@ -15,9 +15,9 @@ He volunteered with [ARES](http://www.arrl.org/ares) while he was in Greeley, CO
 
 He holds a Master of Science in Software Engineering, a Master of Fine Arts in Cinema-Television Production, and a Bachelor of Arts in Musical Theater.
 
-He has a beautiful wife, Kelly (KE0TIJ), a beaufitul son [Alexander](https://watt.ws/agw) (born on his birthday!), and a beautiful dog, Annie. His mother is also a ham (KC0ZBH), and she is beautiful as well. Alexander has not yet taken his Technician exam. 👶
+He has a beautiful wife, Kelly (KE0TIJ), a beautiful son [Alexander](https://watt.ws/agw) (born on his birthday!), and a beautiful dog, Annie. His mother is also a ham (KC0ZBH), and she is beautiful as well. Alexander has not yet taken his Technician exam. 👶
 
 His other interests include:
 
-* Musical theater. He plays piano and has acted as musical director and acompanist for many productions. He will also perform on stage if needed.
+* Musical theater. He plays piano and has acted as musical director and accompanist for many productions. He will also perform on stage if needed.
 * Home automation. Almost everything in his house that can be automated is. This is a never ending saga of software maintenance, hardware upgrades, and coding complex configuration files to ensure the minimum effort is expended turning on a light.
