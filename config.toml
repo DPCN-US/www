@@ -1,5 +1,5 @@
 title = "DPCN"
-baseURL = "http://dpcn.us"
+baseURL = "https://www.dpcn.us"
 languageCode = "en-us"
 theme = "ananke"
 
