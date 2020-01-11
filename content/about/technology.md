@@ -1,7 +1,7 @@
 ---
 title: "Technology"
 draft: false
-tags: ["about"]
+tags: ["about", "technology"]
 ---
 
 DPCN utilizes trunked digital radio, which allows for more efficient use of available spectrum and equipment.
@@ -22,21 +22,23 @@ Depending on the system vendor, DPCN users may also be able to converse on the s
 
 Because the trunking protocol DPCN uses is a proprietary addition to DMR, all radios must be from the same manufacturer. While these radios are relatively expensive new, they are reasonably priced used (and frequently less expensive than new ham-specific digital radios).
 
-Compatible models will vary depending on the system. Contact your local chapter for a list of supported radios.
+Compatible models will vary depending on the system. See your [local system](/system) for a list of supported radios.
 
 ## Benefits
 
-Because DPCN system radios are commercial and made by the same manufacturer, they can be centrally managed. This means:
+Because DPCN radios are commercial and made by the same manufacturer, they can be centrally managed. This means:
 
-* No more wasting time building and maintaining codeplugs: all codeplugs and updates are pushed out over the air.
+* No more wasting time building and maintaining codeplugs: all updates are pushed out over the air.
 * A common, up to date contact list, updated over the air.
 * Private call confirmation: know that your friend is online and in range of the system.
-* Ease of use: commercial radios are typically not programmable from the radio and therefore focused on everyday user experience.
-* Customizable: assign hotkeys to specific contacts, customize your ring tone, turn on vibrate alerts, etc.
+* Ease of use: commercial radios are focused on everyday user experience.
+* Customizable: assign hotkeys to specific contacts, add your own contacts, customize your ring tone, turn on vibrate alerts, etc.
 
 ### Centralized codeplug management
 
 Modern digital protocols are not designed for a pleasant user experience or for ease of use, even ham-specific ones such as D-STAR. Many accomplished and capable hams struggle to configure radio codeplugs with timeslots, color codes, talkgroups, recieve group lists, scan lists, contact lists, etc. Programming a codeplug has so many options nowadays; some settings are incompatible with other settings and can even unknowingly cause interference with other radios.
+
+### Simple to use
 
 DPCN is digital ham radio without the headache: when you don't necessarily want to become an expert at all things digital and instead want use your license for what you're skilled at: communicating. Outsource the technical management to DPCN and enjoy *talking* on ham radio again.
 
@@ -44,8 +46,4 @@ With DPCN you can leave your radio on 24/7 and only receive calls you want to he
 
 ## How it works
 
-For those familiar with computer networking, DMR is basicaly IP. So a group call is the equivalent to multicast, and a private call is directed at a single IP address. If you have a scanner or a DMR radio with promiscuous mode you can still listen to the transmission: it is *not* encrypted. It's merely that the other radios recognize that the transmission is not directed to them, so they don't listen. 
-
-<!--# Solving a problem or filling a niche?-->
-
-<!--Radios being centrally managed means greater reliability, more up to date, and no worries with codeplugs.-->
+For those familiar with computer networking, DMR is basicaly IP. So a group call would be equivalent to multicast, whereas a private call is directed at a single IP address. If you have a scanner or a DMR radio with promiscuous mode you can still listen to the transmission: it is *not* encrypted. It's merely that the other radios recognize that the transmission is not directed to them, so they don't listen.

@@ -1,8 +1,8 @@
 ---
 title: "[Proposed] Front Range DPCN"
-draft: false
-tags: ["system", "about"]
+tags: ["system", "about", "FR-DPCN"]
 toc: true
+featured_image: '/images/mount-scenery-1036660.jpg'
 ---
 
 ℹ️ This is a theoretical system based on Colorado [front range](https://en.wikipedia.org/wiki/Front_Range) ham communities. These organizations are examples and have not (yet) expressed interest in utilizing DPCN.
@@ -74,7 +74,9 @@ If a system administrator has notified you that an update is available for your 
 
 Please do not come to one of these access points unless you have been notified that your radio needs an upgrade. Nothing will happen if your radio is not in the upgrade queue.
 
-Firmware updates are performed over Wi-Fi. The SSID is hidden but active at these sites. If your radio is due for an upgrade, simply bring it to the vicinity of one of these locations and enable Wi-Fi. It will connect to the system and update your radio to the latest firmware and codeplug. You do not have to come inside; merely parking on the street in front of the building will suffice. It may take several minutes for the system to upgrade your firmware, please be patient. If your radio does not upgrade within 10 minutes, either it is already up to date (unlikely if you were contacted), or it cannot connect to the system. Call a system administrator on the Tech Support talkgroup to troubleshoot.
+Firmware updates are performed over Wi-Fi. The SSID is hidden but active at these sites. If your radio is due for an upgrade, simply bring it to the vicinity of one of these locations and enable Wi-Fi. It will connect to the management server and update your radio to the latest firmware and codeplug.
+
+You do not have to come inside; merely parking on the street in front of the building will suffice. It may take several minutes for the system to upgrade your firmware, please be patient. If your radio does not upgrade within 10 minutes, either it is already up to date (unlikely if you were contacted), or it cannot connect to the system. Call a system administrator on the Tech Support talkgroup to for assistance.
 
 ## Duplicate Radio IDs
 
@@ -82,6 +84,6 @@ If you have multiple radios with the same ID, it is critically important that on
 
 ## Contact FR-DPCN
 
-This form sends a message to the FR-DPCN system administrator(s). If you have a more general DPCN inquiry, please see the [contact](/contact) page.
+This form sends a message to the FR-DPCN system administrator(s). If you have a more general inquiry, please see the [contact](/contact) page.
 
 {{< form-contact action="https://formspree.io/mlejezzr"  >}}

@@ -11,7 +11,9 @@ Phil's callsign is K0PRW. He has been licensed since 1997 and has an interest in
 
 <!--more-->
 
-He volunteered with [ARES](http://www.arrl.org/ares) while he was in Greeley, CO, and when he moved to Los Angeles, CA, he joined the [Los Angeles County Disaster Communications Service (LACDCS)](https://lacdcs.org). Upon returning home to Colorado, he volunteered with the Denver Police emergency group, DAREC, which morphed into the [Joint Communications Task Force](https://jctf.us). He currently volunteers with [Boulder County ARES](https://bouldercountyares.org) and works at [CableLabs](https://www.cablelabs.com) during normal business hours. He is qualified in ICS-100, 200, 700, 800, but does not consider himself an expert or authority on EMCOMM.
+He volunteered with [ARES](http://www.arrl.org/ares) while he was in Greeley, CO, and when he moved to Los Angeles, CA, he joined the [Los Angeles County Disaster Communications Service (LACDCS)](https://lacdcs.org). Upon returning home to Colorado, he volunteered with the Denver Police emergency group, DAREC, which morphed into the [Joint Communications Task Force](https://jctf.us). He currently volunteers with [Boulder County ARES](https://bouldercountyares.org) and his day job is at [CableLabs](https://www.cablelabs.com) as a Software Engineer. He is qualified in ICS-100, 200, 700, 800, but does not consider himself an expert or authority on EMCOMM.
+
+He holds a Master of Science in Software Engineering, a Master of Fine Arts in Cinema-Television Production, and a Bachelor of Arts in Musical Theater.
 
 He has a beautiful wife, Kelly (KE0TIJ), a beaufitul son [Alexander](https://watt.ws/agw) (born on his birthday!), and a beautiful dog, Annie. His mother is also a ham (KC0ZBH), and she is beautiful as well. Alexander has not yet taken his Technician exam. 👶
 

@@ -9,7 +9,7 @@ DPCN systems offload local one-on-one communications from other radio networks i
 
 <!--more-->
 
-Most ham DMR networks discourage the use of private calling. Reasons vary but range from adhering to social norms to accommodating technical limitations. For example, on some DMR networks, private calling will tie up *all* linked repeaters in the system, even though parties may be on the same repeater.
+Most ham DMR networks discourage the use of private calling. Reasons vary but range from adhering to social norms to accommodating technical limitations. For example, on some DMR networks, private calling will tie up *all* linked repeaters in the system, even though both parties may be on the same repeater.
 
 Whatever your individual use case for private calling, it is a legitimate form of communication and perfectly legal on ham radio. DPCN allows and encourages the use of private calling on its systems.
 

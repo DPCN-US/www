@@ -12,10 +12,12 @@ Do you have something to contribute? Join our team!
 
 We are looking for passionate, dynamic people with knowledge in:
 
-* RF
-* Computer networking
-* DMR and/or other digital radio systems
+* Marketing (social and traditional media)
 
-If you don't know these things but are willing to learn, we can teach you. [Contact us](/contact) and describe your interest.
+* Fundraising
 
-Amateur radio license **not** required.
+* Graphic Design
+
+* Technical Operations (RF, DMR, networking, etc.)
+
+Amateur radio license *not* required. [Contact us](/contact) if you're interested.

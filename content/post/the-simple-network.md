@@ -1,8 +1,9 @@
 ---
 title: "The Simple Network"
-author: K0PRW
+author: "Phil, K0PRW"
 featured_image: '/images/abstract-art-blur-bright-373543.jpg'
 date: 2020-01-08
+tags: ["technology"]
 ---
 
 All the technology surrounding ham radio can be intimidating. DPCN can help.
@@ -19,6 +20,6 @@ For these folks, programming radios is at best a chore and at worst a daunting t
 
 For those hams who simply want to be able to talk, DPCN can help. If you are within range of the system, DPCN can program your radio remotely whenever the settings need to be updated. These commercial radios are designed for everyday, heavy-duty use so they are rugged, reliable, and much simpler to learn and use than ham-centric radio models.
 
-You won't be exposed to every setting imaginable with these radios, and you won't be able to program them on-the-fly. But you will have a radio that you know will work with any other radio on the system, and most other ham radios out there.
+You won't be exposed to every setting imaginable with these radios, and you won't be able to program them on-the-fly. But you will have a radio that you know will work with any other radio on the system and with most other ham radios out there.
 
-And part of DPCN's mission is educational, so you can always learn more when you're ready. In fact, DPCN systems have a Technical Support talkgroup where all questions are welcome. Starting with, "what does this button do?" 😀
+And part of DPCN's [mission](/about/mission) is educational, so you can always learn more when you're ready. In fact, DPCN systems have a Technical Support talkgroup where all questions are welcome. Starting with, "what does this button do?" 😀

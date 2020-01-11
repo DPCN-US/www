@@ -20,6 +20,6 @@ Hams who cannot afford their own DPCN radio can join a waitlist. Donated radios 
 
 ## National organization, local scope
 
-Local chapters are responsible for building their own systems. The national organization exists to provide purchasing power, tax benefits, system and paperwork templates, operational infrastructure, and to reduce administrative overhead. This leaves the local chapters free to focus on building their systems and memberships in order to best serve their local communities.
+Local groups are responsible for building their own systems. The national organization exists to provide purchasing power, tax benefits, system and paperwork templates, operational infrastructure, and to reduce administrative overhead. This leaves local groups free to focus on building their systems and users in order to best serve their local communities.
 
-Local chapters will receive national support based on a balance of the size of their membership and local infrastructure needs.
+Local groups will receive national support based on a balance of the size of their membership and local infrastructure needs.
