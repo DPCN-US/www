@@ -54,6 +54,7 @@ FR-DPCN uses [Motorola Solutions](https://www.motorolasolutions.com/en_us/produc
 | Metro Traffic | Denver, Boulder       | Motorist assist, traffic reporting                           |
 | Emergency     | All                   | **Emergency and priority traffic only**. All-Call, forces all radios to listen. ~~Interconneted with [BrandMeister 9911](https://wiki.brandmeister.network/index.php/TalkGroup/9911).~~ Will bump lower priority traffic if system is busy. |
 | Tech Support  | All                   | Technical support for FR-DPCN system                         |
+| Test          | Local                 | Radio tests and checks                                       |
 | BCARES        | Boulder               | Boulder County ARES[^3]                                      |
 | CO ARES       | All                   | Colorado ARES[^3]                                            |
 | DRC           | Denver                | Denver Radio Club                                            |
