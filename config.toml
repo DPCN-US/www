@@ -12,7 +12,7 @@ enableRobotsTXT = true
 publishDir = "/Users/prosenberg-watt/Documents/Sync/dpcn-web"
 
 [permalinks]
-  post = "/:year/:month/:day/:slug/"
+  post = "/:year/:month/:slug/"
 
 [sitemap]
   changefreq = "monthly"
