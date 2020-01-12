@@ -1,5 +1,5 @@
 ---
-title: "You?"
+title: "Your Name Here"
 type: page
 weight: 20
 ---

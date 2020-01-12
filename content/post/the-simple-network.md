@@ -14,7 +14,7 @@ Ham radio is a wealth of information, technologies, and choices. Even an activit
 
 Many people become hams because they are already interested in these things. They have no problem keeping these technical details in their minds and using it to perform [RF](https://en.wikipedia.org/wiki/Radio_frequency) magic.
 
-However, many other hams become licensed for other reasons: emergency preparedness, friends and/or family have licenses, their group or club encourages them, or other reasons that do not involve the scientific and technical side of radio.
+However, many hams become licensed for different reasons: emergency preparedness, friends and/or family have licenses, their group or club encourages them, or other reasons that do not involve the scientific and technical side of radio.
 
 For these folks, programming radios is at best a chore and at worst a daunting task. Multiply that by a factor of ten for digital modes. Modern ham radio manufacturers operate under certain assumptions about radio operators. While cramming every possible feature imaginable into the radio, they often forget about [user experience](https://en.wikipedia.org/wiki/User_experience) and the design choices that go into making a radio easy to use or not. Not just easy to use for the tech-minded ham.
 

@@ -10,7 +10,7 @@ DPCN networks do not discriminate or exclude. Hams of all races, religions, ethn
 
 ## No politics, no cliques, no exclusion.
 
-Any ham with a valid license and a compatible radio can join. Users are asked to follow the [code of conduct](/about/code-of-conduct) and those who abuse their system privileges or may be locked out.
+Any ham with a valid license and a compatible radio can join. Users are asked to follow the [code of conduct](/about/code-of-conduct) and those who abuse their system privileges may be locked out.
 
 ## Introverts welcome
 
