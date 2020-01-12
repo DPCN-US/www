@@ -36,6 +36,7 @@ publishDir = "/Users/prosenberg-watt/Documents/Sync/dpcn-web"
   featured_image = "/images/sound-speaker-radio-microphone-484.jpg"
   recent_posts_number = 2
   custom_css = ["css/custom.css"]
+  mainSections = ["post"]
 
 [frontmatter]
   date = ["date", "publishDate", "lastmod", ":fileModTime"]
