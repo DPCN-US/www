@@ -1,2 +1,6 @@
 [build.environment]
   HUGO_ENV = production
+[[redirects]]
+  from = "https://dpcn.us"
+  to = "https://www.dpcn.us"
+  status = 301
