@@ -3,7 +3,7 @@ title: "Offroading"
 date: 2020-01-14
 draft: true
 featured_image: '/images/aerial-view-of-mountain-road-1125278.jpg'
-author: "Phil, K0PRW"
+author: "[Phil, K0PRW](/about/team/phil)"
 tags: ["maintenance"]
 ---
 

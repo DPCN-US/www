@@ -1,7 +1,7 @@
 ---
 title: "Thoughts on Station Identification"
 date: 2020-01-18
-author: Phil, K0PRW
+author: "[Phil, K0PRW](/about/team/phil)"
 featured_image: '/images/adult-american-football-athlete-audience-209954.jpg'
 draft: true
 tags: ["regulations"]

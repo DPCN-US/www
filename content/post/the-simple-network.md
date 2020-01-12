@@ -1,6 +1,6 @@
 ---
 title: "The Simple Network"
-author: "Phil, K0PRW"
+author: "[Phil, K0PRW](/about/team/phil)"
 featured_image: '/images/abstract-art-blur-bright-373543.jpg'
 date: 2020-01-12
 tags: ["technology"]
