@@ -13,7 +13,7 @@ featured_image: '/images/mount-scenery-1036660.jpg'
 
 ## System vendor
 
-FR-DPCN uses [Motorola Solutions](https://www.motorolasolutions.com/en_us/products/mototrbo-story.html) gear in a Capacity Plus Multi Site (CPMS) configuration. This is a lightweight trunked system that does not require a control channel or centralized system controller.
+FR-DPCN uses [Motorola Solutions](https://www.motorolasolutions.com/en_us/products/mototrbo-story.html) gear in a [Capacity Plus Multi Site](https://www.motorolasolutions.com/en_us/products/mototrbo-systems/mototrbo-private-systems/linked-capacity-plus.html) (CPMS) configuration. This is a lightweight trunked system that does not require a control channel or centralized system controller.
 
 ### Supported Radios
 
