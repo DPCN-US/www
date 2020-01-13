@@ -8,3 +8,5 @@ draft: false
 ---
 
 Welcome to our new website. It went live on Saturday, January 11, 2020.
+
+Thanks to [Pexels](https://www.pexels.com/) and the talented photographers there for providing stock images.
