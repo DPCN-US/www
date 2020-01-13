@@ -1,2 +1,2 @@
 [build.environment]
-  HUGO_ENV = production
+  HUGO_ENV = "production"
