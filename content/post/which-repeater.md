@@ -7,7 +7,7 @@ author: "[Phil, K0PRW](/about/team/phil)"
 featured_image: '/images/map-maps-american-book-32307.jpg'
 ---
 
-One of the challenges with amateur radio is finding a repeater that works where you are. DPCN can help with that.
+One of the challenges with amateur radio is finding a repeater that works where you are, where you were, and where you're going.
 
 <!--more-->
 
