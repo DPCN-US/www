@@ -10,9 +10,9 @@ DPCN's mission is to provide advanced infrastructure support to ham radio organi
 
 We accomplish this through:
 
-* Experimentation: Our networks are testbeds for the latest digital radio technologies.
+* *Experimentation*: Our networks are testbeds for the latest digital radio technologies.
 
-* Education: Interested hams are encouraged to volunteer and gain real world experience in digital radio systems design, management, and maintenance.
+* *Education*: Interested hams are encouraged to volunteer and gain real world experience in digital radio systems design, management, and maintenance.
 
 ## Why DPCN
 
