@@ -1,5 +1,5 @@
 ---
-title: "Ham Radio Misconceptions"
+title: "Misconceptions about Ham Radio Operators"
 date: 2020-01-16T12:26:33-07:00
 draft: false
 tags: ["noise", "perception", "optimism"]
@@ -7,7 +7,7 @@ author: "[Phil, K0PRW](/about/team/phil)"
 featured_image: '/images/band-blow-blur-brass-343683.jpg'
 ---
 
-I'm afraid there may be some misconceptions about ham radio as a hobby. Specifically about the people who represent the hobby.
+I'm afraid there may be some misconceptions about ham radio operators.
 
 <!--more-->
 
