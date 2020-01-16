@@ -38,6 +38,6 @@ Some of us are:
 * Progressive
 * Rebellious
 
-Granted, there are some who embody the former list. They are often the loudest, and -- as we know -- the loudest voices in the group often are mistaken for the group as a whole. But ham radio operators are diverse. They do not all share the same reason for becoming licensed, nor do they share the same interests. The only commonality is radio.
+Granted, there are some who embody the former list. They are often the loudest, and -- as we know -- the loudest voices in the group are often mistaken for the group as a whole. But ham radio operators are diverse. They do not all share the same reason for becoming licensed, nor do they share the same interests. The only commonality is radio.
 
 I urge you not to be turned off by those cantankerous complainers. There is a niche for everyone in ham radio. Perhaps DPCN is the niche for you.
