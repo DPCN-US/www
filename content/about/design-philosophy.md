@@ -3,6 +3,7 @@ title: "Design Philosophy"
 draft: false
 tags: ["about"]
 toc: true
+date: 2020-01-11
 ---
 
 DPCN systems offload local one-on-one communications from other radio networks in order to free up resources on more mission-critical systems.

@@ -2,6 +2,7 @@
 title: "New Hams"
 draft: false
 tags: ["about"]
+date: 2020-01-16
 ---
 
 * What is DMR?

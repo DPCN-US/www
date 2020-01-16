@@ -2,6 +2,7 @@
 title: "An Inclusive Network"
 draft: false
 tags: ["about"]
+date: 2020-01-11
 ---
 
 DPCN networks do not discriminate or exclude. Hams of all races, religions, ethnicities, orientations, and identities are welcome.

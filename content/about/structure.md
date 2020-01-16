@@ -2,6 +2,7 @@
 title: "Nonprofit"
 draft: false
 tags: ["about"]
+date: 2020-01-11
 ---
 
 501(c)(3) status (coming soon) means donations are tax deductible. [Contact us](/contact) if you wish to make a large donation.

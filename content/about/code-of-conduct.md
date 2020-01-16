@@ -1,6 +1,7 @@
 ---
 title: "Code of Conduct"
 tags: ["about"]
+date: 2020-01-16
 ---
 
 This code of conduct applies to all users of any DPCN system. Most of it is either common sense or simply being a good person, but there are a few unique gotchas.

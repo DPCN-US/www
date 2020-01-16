@@ -3,6 +3,7 @@ title: "Phil"
 draft: false
 type: page
 weight: 10
+date: 2020-01-13
 ---
 
 ![Phil's professional headshot](/images/headshot-phil-cablelabs.jpg)

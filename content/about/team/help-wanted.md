@@ -2,6 +2,7 @@
 title: "Your Name Here"
 type: page
 weight: 20
+date: 2020-01-11
 ---
 
 ![silhouette of person](/images/silhouette-of-man-800005.jpg)
