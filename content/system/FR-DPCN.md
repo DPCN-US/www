@@ -5,7 +5,7 @@ toc: true
 featured_image: '/images/mount-scenery-1036660.jpg'
 ---
 
-ℹ️ This is a theoretical system based on Colorado [Front Range](https://en.wikipedia.org/wiki/Front_Range) ham communities. These organizations are examples and have not (yet) expressed interest in utilizing DPCN.
+ℹ️ This is a theoretical system based on Colorado [Front Range](https://en.wikipedia.org/wiki/Front_Range) ham communities. These organizations are examples and have not (yet) expressed interest in utilizing or helping construct FR-DPCN.
 
 <!--more-->
 
