@@ -5,7 +5,7 @@ tags: ["about"]
 date: 2020-01-13
 ---
 
-DPCN's mission is to provide advanced infrastructure support to ham radio organizations and individuals.
+DPCN's mission is to provide advanced infrastructure support to amateur radio organizations and individuals.
 
 <!--more-->
 
