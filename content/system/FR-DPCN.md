@@ -55,13 +55,13 @@ FR-DPCN uses [Motorola Solutions](https://www.motorolasolutions.com/en_us/produc
 | Emergency     | All                   | **Emergency and priority traffic only**. All-Call, forces all radios to listen. Will bump lower priority traffic if system is busy. |
 | Tech Support  | All                   | Technical support for FR-DPCN system                         |
 | Test          | Local                 | Radio tests and checks                                       |
-| BCARES        | Boulder               | Boulder County ARES[^3]                                      |
-| CO ARES       | All                   | Colorado ARES[^3]                                            |
-| CLARC         | Boulder               | CableLabs Amateur Radio Club                                 |
-| DRC           | Denver                | Denver Radio Club                                            |
-| LARC          | Ft. Collins           | Longmont Amateur Radio Club                                  |
-| NCARC         | Boulder,  Ft. Collins | Northern Colorado Amateur Radio Club                         |
-| PARC          | Colo. Springs         | Pueblo Amateur Radio Club                                    |
+| BCARES        | Boulder               | [Boulder County ARES](http://bouldercountyares.org)[^3]      |
+| CO ARES       | All                   | [Colorado ARES](http://www.coloradoares.org)[^3]             |
+| CLARC         | Boulder               | [CableLabs](https://www.cablelabs.com) Amateur Radio Club    |
+| DRC           | Denver                | [Denver Radio Club](https://www.w0tx.org/)                   |
+| LARC          | Ft. Collins           | [Longmont Amateur Radio Club](http://w0eno.org/)             |
+| NCARC         | Boulder,  Ft. Collins | [Northern Colorado Amateur Radio Club](http://www.ncarc.net/) |
+| PARC          | Colo. Springs         | [Pueblo Amateur Radio Club](http://www.puebloradio.org/)     |
 
 [^2]: Tac channels are used for short-term, temporary communications such as special events and moving long group conversations off of Wide. If you consistently have group communications on a Tac channel, please contact a system administrator to get your own dedicated talkgroup.
 [^3]: ARES and large organizations are encouraged to utilize the Tac channels for segmenting traffic as needed for events and incidents.
