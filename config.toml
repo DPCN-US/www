@@ -6,7 +6,7 @@ theme = "ananke"
 MetaDataFormat = "yaml"
 DefaultContentLanguage = "en"
 SectionPagesMenu = "main"
-Paginate = 3 # this is set low for demonstrating with dummy content. Set to a higher number
+Paginate = 6 # this is set low for demonstrating with dummy content. Set to a higher number
 googleAnalytics = "UA-156007492-2"
 enableRobotsTXT = true
 
@@ -33,7 +33,7 @@ enableRobotsTXT = true
   # choose a background color from any on this page: http://tachyons.io/docs/themes/skins/ and preface it with "bg-"
   background_color_class = "bg-gray"
   featured_image = "/images/sound-speaker-radio-microphone-484.jpg"
-  recent_posts_number = 2
+  recent_posts_number = 5
   custom_css = ["css/custom.css"]
   mainSections = ["post"]
 
