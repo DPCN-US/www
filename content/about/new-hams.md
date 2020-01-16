@@ -20,7 +20,7 @@ DMR stands for [Digital Mobile Radio](https://en.wikipedia.org/wiki/Digital_mobi
 * Major manufacturers such as Motorola and Kenwood produce top-quality DMR gear with excellent RF performance.
 * It uses [TDMA](https://en.wikipedia.org/wiki/Time-division_multiple_access) to create two logical channels from one physical frequency. Ergo, it essentially turns one repeater into two.
 
-While various Chinese manufacturers have produced handheld and mobile DMR radios, so far only large manufacturers such as Motorola and Hytera make the infrastructure components (i.e., repeaters). This allows hams to purchase cheap radios to use on expensive repeater systems.
+While various manufacturers have produced handheld and mobile DMR radios, so far only large manufacturers such as Motorola and Hytera make the infrastructure components (i.e., repeaters). This allows hams to purchase cheap radios to use on expensive repeater systems.
 
 Since DMR is basically just digital data, repeater systems can be linked over IP networks with no signal degradation.
 
