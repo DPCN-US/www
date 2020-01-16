@@ -40,7 +40,7 @@ It is also an incredibly technically challenging endeavor to keep radios program
 
 ## What differentiates DPCN?
 
-DPCN allows users to focus on *who* they want to talk to, not *how* they do it.
+DPCN allows users to focus on *whom* they want to talk to, not *how* they do it.
 
 DPCN systems use technology designed for commercial users who are typically not as technically-minded as some amateur radio operators. This allows for a simpler user experience, while the technology behind it remains quite complex.
 
