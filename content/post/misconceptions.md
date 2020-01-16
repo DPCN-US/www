@@ -11,7 +11,7 @@ I'm afraid there may be some misconceptions about ham radio operators.
 
 <!--more-->
 
-Let me start with a descriptive list about ham radio operators:
+Let me start with a descriptive list about them.
 
 Not *every* ham radio operator is:
 
