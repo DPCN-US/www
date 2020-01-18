@@ -58,6 +58,7 @@ FR-DPCN uses [Motorola Solutions](https://www.motorolasolutions.com/en_us/produc
 | Test          | Local                 | Radio tests and checks                                       |
 | BCARES        | Boulder               | [Boulder County ARES](http://bouldercountyares.org)[^3]      |
 | CO ARES       | All                   | [Colorado ARES](http://www.coloradoares.org)[^3]             |
+| CRA           | All                   | [Colorado Repeater Association](http://www.w0cra.org/)       |
 | CLARC         | Boulder               | [CableLabs](https://www.cablelabs.com) Amateur Radio Club    |
 | DRC           | Denver                | [Denver Radio Club](https://www.w0tx.org/)                   |
 | LARC          | Ft. Collins           | [Longmont Amateur Radio Club](http://w0eno.org/)             |
