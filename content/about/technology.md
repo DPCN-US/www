@@ -2,6 +2,7 @@
 title: "Technology"
 draft: false
 tags: ["about", "technology"]
+date: 2020-01-11
 ---
 
 DPCN utilizes trunked digital radio, which allows for more efficient use of available spectrum and equipment.
