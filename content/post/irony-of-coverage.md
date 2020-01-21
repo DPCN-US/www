@@ -1,7 +1,7 @@
 ---
 title: "The Irony of Great Coverage"
 date: 2020-01-21T09:37:28-07:00
-draft: true
+draft: false
 tags: ["coverage", "psychology", "theory"]
 author: "[Phil, K0PRW](/about/team/phil)"
 featured_image: '/images/photography-of-person-on-green-mountain-691034.jpg'
