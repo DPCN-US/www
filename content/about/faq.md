@@ -1,5 +1,5 @@
 ---
-title: "Frequently Asked Questions"
+title: "FAQ"
 date: 2020-01-21
 draft: true
 ---
