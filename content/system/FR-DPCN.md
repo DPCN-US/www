@@ -76,6 +76,10 @@ If a system administrator has notified you that an update is available for your 
 * CableLabs
 * Residence of K0PRW
 
+Look for the DPCN logo so you know you're in the right place:
+
+![DPCN logo](/images/DPCN-logo.png)
+
 Please do not come to one of these access points unless you have been notified that your radio needs an upgrade. Nothing will happen if your radio is not in the upgrade queue.
 
 Firmware updates are performed over Wi-Fi. The SSID is hidden but active at these sites. If your radio is due for an upgrade, simply bring it to the vicinity of one of these locations and enable Wi-Fi. It will connect to the management server and update your radio to the latest firmware and codeplug.
