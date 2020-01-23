@@ -19,7 +19,7 @@ enableRobotsTXT = true
   filename = "sitemap.xml"
 
 [params]
-  favicon = "images/radio-48.ico"
+  favicon = "images/logo.ico"
   description = "Digital Private Calling Network"
   facebook = "https://www.facebook.com/DPCN-110692447127815"
   twitter = ""
