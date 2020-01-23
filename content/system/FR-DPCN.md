@@ -84,7 +84,15 @@ You do not have to come inside; merely parking on the street in front of the bui
 
 ## Duplicate Radio IDs
 
-If you have multiple radios with the same ID, it is critically important that only one of them be connected to FR-DPCN at a time. Private calling will not work correctly and there may be other unintended consequences.
+Each radio on the system must have a unique ID.
+
+## Codeplug Management
+
+You are welcome to *read* the codeplug for your own education.
+
+**Do not** write changes to the codeplug. The radios are centrally managed and any changes made to the radio's settings, no matter how small, will interfere with its ability to get updates over the air. Therefore any external codeplug management is strictly prohibited.
+
+Contact the FR-DPCN system administrator(s) if you require a customized codeplug. You can build it yourself, we will upload it to the management system, apply it to your radio, and make all requested future changes for $100/month/codeplug.
 
 ## Contact FR-DPCN
 
