@@ -2,7 +2,7 @@
 title: "Digital Private Calling Network"
 description: "The Simple Network for Complicated Hams"
 ---
-![DPCN logo](/images/DPCN_logo.png)
+![DPCN logo](/images/DPCN_logo_y.png)
 
 DPCN provides [advanced infrastructure](about/technology) support to amateur radio organizations and individuals.
 
