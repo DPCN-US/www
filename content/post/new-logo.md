@@ -13,7 +13,7 @@ If it's not obvious from the [front page](/), we have a new logo!
 
 <!--more-->
 
-![DPCN logo](/images/DPCN_logo_y.png)
+![DPCN logo](/images/DPCN-logo.png)
 
 What do *you* see?
 

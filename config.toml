@@ -19,7 +19,7 @@ enableRobotsTXT = true
   filename = "sitemap.xml"
 
 [params]
-  favicon = "images/logo-y.ico"
+  favicon = "favicon.ico"
   description = "Digital Private Calling Network"
   facebook = "https://www.facebook.com/DPCN-110692447127815"
   twitter = ""
