@@ -5,6 +5,7 @@ featured_image: '/images/white-and-blue-cables-2881229.jpg'
 author: "[Phil, K0PRW](/about/team/phil)"
 expirydate: 2020-04-11
 draft: false
+tags: ["meta"]
 ---
 
 Welcome to our new website. It went live on Saturday, January 11, 2020.
