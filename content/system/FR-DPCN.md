@@ -53,7 +53,6 @@ FR-DPCN uses [Motorola Solutions](https://www.motorolasolutions.com/en_us/produc
 | Interop-3     | All                   | External system interconnect, as needed                      |
 | WX            | All                   | Severe weather monitoring                                    |
 | Metro Traffic | Denver, Boulder       | Motorist assist, traffic reporting                           |
-| Emergency     | All                   | **Emergency and priority traffic only**. All-Call, forces all radios to listen. Will bump lower priority traffic if system is busy. |
 | Tech Support  | All                   | Technical support for FR-DPCN system                         |
 | Test          | Local                 | Radio tests and checks                                       |
 | BCARES        | Boulder               | [Boulder County ARES](http://bouldercountyares.org)[^3]      |
