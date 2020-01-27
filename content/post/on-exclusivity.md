@@ -2,7 +2,7 @@
 title: "On Exclusivity"
 date: 2020-01-27T09:03:29-07:00
 draft: false
-tags: ["openness", "exclusivity"]
+tags: ["openness", "exclusivity", "regulation"]
 author: "[Phil, K0PRW](/about/team/phil)"
 featured_image: '/images/rusted-grey-padlock-in-selective-focus-photography-912005.jpg'
 ---
