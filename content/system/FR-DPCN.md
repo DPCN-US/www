@@ -68,6 +68,40 @@ FR-DPCN uses [Motorola Solutions](https://www.motorolasolutions.com/en_us/produc
 [^2]: Tac channels are used for short-term, temporary communications such as special events and moving long group conversations off of Wide. If you consistently have group communications on a Tac channel, please contact a system administrator to get your own dedicated talkgroup.
 [^3]: ARES and large organizations are encouraged to utilize the Tac channels for segmenting traffic as needed for events and incidents.
 
+## Channel Code Generation
+
+FR-DPCN uses enhanced codes to prevent co-channel interference and to prevent "bleed in" from adjacent DMR systems. This is because DMR only provides 16 color codes. To generate the appropriate code for the channel, hash the [talkgroup name](#talkgroups) using the [Shake-256](https://en.wikipedia.org/wiki/SHA-3) algorithm and configure the output for 40 bits. There are numerous ways to accomplish this. For example:
+
+```python
+import hashlib
+
+tgname = "Test"
+bits = 40
+
+h = hashlib.shake_256()
+input = bytes(tgname.encode())
+h.update(input)
+hdsize = int(bits * 2 / 16)
+code = h.hexdigest(hdsize)
+print(code)
+```
+
+Here's a one-liner that does the same thing:
+
+```python
+import hashlib
+
+print(hashlib.shake_256(b"Test").hexdigest(5))
+```
+
+These provide the output:
+
+```bash
+5c1f05a89c
+```
+
+You will be able to decode talkgroup `Test` using that key.
+
 ## Wi-Fi Access Points
 
 If a system administrator has notified you that an update is available for your radio, please proceed to one of the following locations at your earliest convenience:
