@@ -1,6 +1,6 @@
 ---
 title: "FAQ"
-date: 2020-01-21
+date: 2020-01-27
 draft: false
 toc: true
 tags: ["about"]
