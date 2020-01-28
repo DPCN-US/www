@@ -3,7 +3,7 @@ title: "[Proposed] Front Range DPCN"
 tags: ["system", "about", "FR-DPCN"]
 toc: true
 featured_image: '/images/mount-scenery-1036660.jpg'
-date: 2020-01-16
+date: 2020-01-28
 ---
 
 ℹ️ This is a theoretical system based on Colorado [Front Range](https://en.wikipedia.org/wiki/Front_Range) ham communities. These organizations are examples and have not (yet) expressed interest in utilizing or helping construct FR-DPCN.
@@ -38,38 +38,20 @@ FR-DPCN uses [Motorola Solutions](https://www.motorolasolutions.com/en_us/produc
 
 > Note to FR-DPCN users: Please remember to use private calling for extended one-on-one communications. Utilizing a wide-area channel ties up resources whereas private calls only utilize timeslots local to the respective repeater sites.
 
-| Channel       | Repeater(s)           | Description                                                  |
-| ------------- | --------------------- | ------------------------------------------------------------ |
-| None          | All                   | No default contact, must select from menu                    |
-| Wide          | All                   | Wide-area general calling                                    |
-| Local         | Local                 | Local repeater calling                                       |
-| Tac-1         | All                   | Tactical communications[^2]                                  |
-| Tac-2         | All                   | Tactical communications[^2]                                  |
-| Tac-3         | All                   | Tactical communications[^2]                                  |
-| Tac-4         | All                   | Tactical communications[^2]                                  |
-| Tac-5         | All                   | Tactical communications[^2]                                  |
-| Interop-1     | All                   | External system interconnect, as needed                      |
-| Interop-2     | All                   | External system interconnect, as needed                      |
-| Interop-3     | All                   | External system interconnect, as needed                      |
-| WX            | All                   | Severe weather monitoring                                    |
-| Metro Traffic | Denver, Boulder       | Motorist assist, traffic reporting                           |
-| Tech Support  | All                   | Technical support for FR-DPCN system                         |
-| Test          | Local                 | Radio tests and checks                                       |
-| BCARES        | Boulder               | [Boulder County ARES](http://bouldercountyares.org)[^3]      |
-| CO ARES       | All                   | [Colorado ARES](http://www.coloradoares.org)[^3]             |
-| CRA           | All                   | [Colorado Repeater Association](http://www.w0cra.org/)       |
-| CLARC         | Boulder               | [CableLabs](https://www.cablelabs.com) Amateur Radio Club    |
-| DRC           | Denver                | [Denver Radio Club](https://www.w0tx.org/)                   |
-| LARC          | Ft. Collins           | [Longmont Amateur Radio Club](http://w0eno.org/)             |
-| NCARC         | Boulder,  Ft. Collins | [Northern Colorado Amateur Radio Club](http://www.ncarc.net/) |
-| PARC          | Colo. Springs         | [Pueblo Amateur Radio Club](http://www.puebloradio.org/)     |
+See the [config file](https://github.com/DPCN-US/dpcn-config/blob/master/systems/fr-dpcn.json) for the latest talkgroups and channels.
 
-[^2]: Tac channels are used for short-term, temporary communications such as special events and moving long group conversations off of Wide. If you consistently have group communications on a Tac channel, please contact a system administrator to get your own dedicated talkgroup.
-[^3]: ARES and large organizations are encouraged to utilize the Tac channels for segmenting traffic as needed for events and incidents.
+Notes about system usage:
+
+1. Tac channels are for short-term, temporary communications such as special events and moving long group conversations off of Wide. If you consistently have group communications on a Tac channel, please contact a system administrator to get your own dedicated talkgroup.
+2. ARES and larger organizations are encouraged to utilize the Tac channels for segmenting traffic as needed for events and incidents.
 
 ## Channel Code Generation
 
-FR-DPCN uses enhanced codes to prevent co-channel interference and to prevent "bleed in" from adjacent DMR systems. This is because DMR only provides 16 color codes. To generate the appropriate code for the channel, hash the [talkgroup name](#talkgroups) using the [Shake-256](https://en.wikipedia.org/wiki/SHA-3) algorithm and configure the output for 40 bits. There are numerous ways to accomplish this. For example:
+FR-DPCN uses enhanced codes to prevent co-channel interference and to prevent "bleed in" from adjacent DMR systems. This is because DMR only provides 16 color codes. To generate the appropriate code for the channel, hash the [talkgroup name](#talkgroups) using the [Shake-256](https://en.wikipedia.org/wiki/SHA-3) algorithm and configure the output for 40 bits[^2]. 
+
+[^2]: 256 bits are available but Motorola refuses to sell this capability, even though it is an international standard and available on every other manufacturer's radios. Motorola's proprietary 40-bit implementation slightly degrades audio quality.
+
+There are numerous ways to accomplish this. For example:
 
 ```python
 import hashlib
@@ -119,17 +101,27 @@ Firmware updates are performed over Wi-Fi. The SSID is hidden but active at thes
 
 You do not have to come inside; merely parking on the street in front of the building will suffice. It may take several minutes for the system to upgrade your firmware, please be patient. If your radio does not upgrade within 10 minutes, either it is already up to date (unlikely if you were contacted), or it cannot connect to the system. Call a system administrator on the Tech Support talkgroup to for assistance.
 
-## Duplicate Radio IDs
+## Radio IDs
 
 Each radio on the system must have a unique ID.
 
-## Codeplug Management
+Global IDs assigned by [RadioID.net](https://radioid.net/) will not work because Connect Plus radio IDs must be no greater than 65535. This means you may not be able to talk on [BrandMeister](https://brandmeister.network/) or other routed systems with your DPCN radio. 
+
+When communicating on non-DPCN DMR systems, please explain this technical limitation to any hams who may complain that your radio ID is incorrect.
+
+You are welcome to apply for a global ID from [radioid.net](https://radioid.net/) but it will not be used to operate on FR-DPCN. We recommend the AnyTone AT-D878UV as a second radio for use on conventional DMR systems.[^3]
+
+[^3]: But we will not program it for you.
+
+## OTAP Codeplug Management
+
+OTAP: Over The Air Programming
 
 You are welcome to *read* the codeplug for your own education.
 
-**Do not** write changes to the codeplug. The radios are centrally managed and any changes made to the radio's settings, no matter how small, will interfere with its ability to get updates over the air. Therefore any external codeplug management is strictly prohibited.
+**Do not** write changes to the codeplug. The radios are centrally managed and any changes made to the radio's settings, no matter how small, will interfere with its ability to receive updates over the air. This is because the system management software pushes out differential changes to the radios based on its knowedge of their configuration. Therefore **any external codeplug management of an OTAP radio is strictly prohibited**.
 
-Contact the FR-DPCN system administrator(s) if you require a customized codeplug. You can build it yourself, we will upload it to the management system, apply it to your radio, and make all requested future changes for $100/month/codeplug.
+Contact the FR-DPCN system administrator(s) if you require a customized codeplug. We will build it from scratch, upload it to the management system, apply it to your radio, and make all requested changes for $100/month/codeplug.
 
 ## Contact FR-DPCN
 

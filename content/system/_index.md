@@ -6,3 +6,5 @@ weight: 30
 ---
 
 Current and proposed DPCN systems.
+
+See the configuration management repo [here](https://github.com/DPCN-US/dpcn-config).
