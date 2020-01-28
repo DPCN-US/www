@@ -44,6 +44,7 @@ Notes about system usage:
 
 1. Tac channels are for short-term, temporary communications such as special events and moving long group conversations off of Wide. If you consistently have group communications on a Tac channel, please contact a system administrator to get your own dedicated talkgroup.
 2. ARES and larger organizations are encouraged to utilize the Tac channels for segmenting traffic as needed for events and incidents.
+3. Remember: You can reach any radio at any time on any channel with a private call. You don't have to be on the same channel.
 
 ## Channel Code Generation
 
