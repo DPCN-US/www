@@ -2,7 +2,7 @@
 title: "Configuration Management"
 date: 2020-01-28T09:39:04-07:00
 draft: false
-tags: ["configuration", "system", "management", "software"]
+tags: ["configuration", "system", "management", "software", "FR-DPCN"]
 author: "[Phil, K0PRW](/about/team/phil)"
 featured_image: '/images/grayscale-photography-of-two-silo-on-grass-1058398.jpg'
 ---
