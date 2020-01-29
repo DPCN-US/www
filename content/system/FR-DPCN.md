@@ -27,7 +27,7 @@ FR-DPCN uses [Motorola Solutions](https://www.motorolasolutions.com/en_us/produc
 
 [^1]: The "e" models are required for Wi-Fi programming.
 
-## Site locations
+## Sites
 
 {{< div id="system-site-list" >}}
 
