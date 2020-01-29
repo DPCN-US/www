@@ -73,17 +73,18 @@
                         td23 = createNode('td');
                     td21.appendChild(document.createTextNode(key));
                     let sites = [];
-                    for (let i = 0; i < data.contacts[key]['channel']['sites'].length; i++) {
-                        sitekey = data.contacts[key]['channel']['sites'][i];
-                        site = data.sites[sitekey];
+                    for (let i = 0; i < data['contacts'][key]['channel']['sites'].length; i++) {
+                        sitekey = data['contacts'][key]['channel']['sites'][i];
+                        sitename = Object(data['sites'][sitekey]).name;
                         if (sitekey === 0) {
-                            site = "Local";
+                            sitename = "Local";
                         }
-                        sites.push(site);
+                        sites.push(sitename);
                     }
                     if (data.contacts[key]['channel']['sites'].length === Object.keys(data['sites']).length && !sites.includes("Local")) {
                         sites = ["All"];
                     }
+
                     td22.appendChild(document.createTextNode(sites.join(", ")));
                     td23.appendChild(document.createTextNode(data.contacts[key]['channel']['description']));
                     append(tr2, td21);
