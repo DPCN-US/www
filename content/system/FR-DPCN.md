@@ -46,24 +46,24 @@ Notes about system usage:
 2. ARES and larger organizations are encouraged to utilize the Tac channels for segmenting traffic as needed for events and incidents.
 3. Remember: You can reach any radio at any time on any channel with a private call. You don't have to be on the same channel.
 
-## Channel Code Generation
+## System Code Generation
 
-FR-DPCN uses enhanced codes to prevent co-channel interference and to prevent "bleed in" from adjacent DMR systems. This is because DMR only provides 16 color codes. To generate the appropriate code for the channel, hash the [talkgroup name](#talkgroups) using the [Shake-256](https://en.wikipedia.org/wiki/SHA-3) algorithm and configure the output for 40 bits[^2]. 
+FR-DPCN uses an enhanced code to prevent co-channel interference and to prevent "bleed in" from adjacent DMR systems. This is because DMR only provides 16 color codes. To generate the appropriate code for the system, hash the system name using the [Shake-256](https://en.wikipedia.org/wiki/SHA-3) algorithm and configure the output for 40 bits[^2]. 
 
-[^2]: 256 bits are available but Motorola refuses to sell this capability, even though it is an international standard and available on every other manufacturer's radios. Motorola's proprietary 40-bit implementation slightly degrades audio quality.
+[^2]: 256 bits are available but Motorola refuses to enable this capability, even though it is an international standard and available on every other manufacturer's radios. Motorola's proprietary 40-bit implementation slightly degrades audio quality.
 
 There are numerous ways to accomplish this. For example:
 
 ```python
 import hashlib
 
-tgname = "Test"
+system_name = "Example DPCN"
 bits = 40
 
 h = hashlib.shake_256()
-input = bytes(tgname.encode())
+input = bytes(system_name.encode())
 h.update(input)
-hdsize = int(bits * 2 / 16)
+hdsize = int(bits / 8)
 code = h.hexdigest(hdsize)
 print(code)
 ```
@@ -73,16 +73,16 @@ Here's a one-liner that does the same thing:
 ```python
 import hashlib
 
-print(hashlib.shake_256(b"Test").hexdigest(5))
+print(hashlib.shake_256(b"Example DPCN").hexdigest(5))
 ```
 
 These provide the output:
 
 ```bash
-5c1f05a89c
+81fd6d25c7
 ```
 
-You will be able to decode talkgroup `Test` using that key.
+You will be able to decode the system `Example DPCN` using that key.
 
 ## Wi-Fi Access Points
 
