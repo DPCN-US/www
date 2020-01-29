@@ -31,6 +31,8 @@ FR-DPCN uses [Motorola Solutions](https://www.motorolasolutions.com/en_us/produc
 
 {{< div id="system-site-list" >}}
 
+It is important to note the distinction between *repeaters* and *sites*. Sites may contain multiple repeaters.
+
 ## Channels
 
 > Note to FR-DPCN users: Please remember to use private calling for extended one-on-one communications. Utilizing a wide-area channel ties up resources whereas private calls only utilize timeslots local to the respective repeater sites.
