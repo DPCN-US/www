@@ -3,7 +3,7 @@ title: "[Proposed] Front Range DPCN"
 tags: ["system", "about", "FR-DPCN"]
 toc: true
 featured_image: '/images/mount-scenery-1036660.jpg'
-date: 2020-01-28
+date: 2020-01-29
 config_file: 'https://raw.githubusercontent.com/DPCN-US/dpcn-config/master/systems/fr-dpcn.json'
 ---
 
