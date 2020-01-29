@@ -36,4 +36,4 @@ enableRobotsTXT = true
   recent_posts_number = 5
   custom_css = ["css/custom.css"]
   mainSections = ["post"]
-
+  config_repo = "https://github.com/DPCN-US/dpcn-config"

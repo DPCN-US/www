@@ -1,0 +1,99 @@
+<script type="text/javascript">
+    const url = '{{ $.Page.Params.config_file }}';
+    const repo = '{{ $.Page.Site.Params.config_repo }}';
+    const ssl = document.getElementById("system-site-list");
+    const scl = document.getElementById("system-channel-list");
+
+    function createNode(element) {
+        return document.createElement(element);
+    }
+
+    function append(parent, el) {
+        return parent.appendChild(el);
+    }
+
+    fetch(url)
+        .then((resp) => {
+            if (resp.statusText === "OK") {
+                return resp.json();
+            } else
+                throw (resp.statusText);
+        })
+        .then(function (data) {
+            let tbl1 = createNode('table'),
+                tbdy1 = createNode('tbody'),
+                tr1 = createNode('tr');
+            th11 = createNode('th');
+            th12 = createNode('th');
+            append(th11, document.createTextNode("No."));
+            append(th12, document.createTextNode("Name"));
+            append(tr1, th11);
+            append(tr1, th12);
+            append(tbdy1, tr1);
+            for (let key in data.sites) {
+                if (data.sites.hasOwnProperty(key)) {
+                    let tr1 = createNode('tr'),
+                        td11 = createNode('td'),
+                        td12 = createNode('td');
+                    td11.appendChild(document.createTextNode(key));
+                    td12.appendChild(document.createTextNode(data.sites[key]));
+                    append(tr1, td11);
+                    append(tr1, td12);
+                    append(tbdy1, tr1);
+                }
+            }
+            append(tbl1, tbdy1);
+            append(ssl, tbl1);
+
+            let tbl2 = createNode('table'),
+                tbdy2 = createNode('tbody'),
+                tr2 = createNode('tr');
+            th21 = createNode('th');
+            th22 = createNode('th');
+            th23 = createNode('th');
+            append(th21, document.createTextNode("Name"));
+            append(th22, document.createTextNode("Sites"));
+            append(th23, document.createTextNode("Description"));
+            append(tr2, th21);
+            append(tr2, th22);
+            append(tr2, th23);
+            append(tbdy2, tr2);
+            for (let key in data.contacts) {
+                if (data.contacts.hasOwnProperty(key)
+                    && data.contacts[key].hasOwnProperty('channel')) {
+                    let tr2 = createNode('tr'),
+                        td21 = createNode('td'),
+                        td22 = createNode('td'),
+                        td23 = createNode('td');
+                    td21.appendChild(document.createTextNode(key));
+                    let sites = [];
+                    for (let i = 0; i < data.contacts[key]['channel']['sites'].length; i++) {
+                        sitekey = data.contacts[key]['channel']['sites'][i];
+                        site = data.sites[sitekey];
+                        if (sitekey === 0) {
+                            site = "Local";
+                        }
+                        sites.push(site);
+                    }
+                    if (data.contacts[key]['channel']['sites'].length === Object.keys(data['sites']).length && !sites.includes("Local")) {
+                        sites = ["All"];
+                    }
+                    // sites.push(data.contacts[key]['channel']['sites'].length);
+                    // sites.push(Object.keys(data['sites']).length);
+                    td22.appendChild(document.createTextNode(sites.join(", ")));
+                    td23.appendChild(document.createTextNode(data.contacts[key]['channel']['description']));
+                    append(tr2, td21);
+                    append(tr2, td22);
+                    append(tr2, td23);
+                    append(tbdy2, tr2);
+                }
+            }
+            append(tbl2, tbdy2);
+            append(scl, tbl2);
+        })
+        .catch((error) => {
+            ssl.innerHTML = "See the <a href=\"" + repo + "\">configuration repo</a> for the most up-to-date site list.";
+            scl.innerHTML = "See the <a href=\"" + repo + "\">configuration repo</a> for the most up-to-date channel list.";
+        });
+
+</script>

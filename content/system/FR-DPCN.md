@@ -4,6 +4,7 @@ tags: ["system", "about", "FR-DPCN"]
 toc: true
 featured_image: '/images/mount-scenery-1036660.jpg'
 date: 2020-01-28
+config_file: 'https://raw.githubusercontent.com/DPCN-US/dpcn-config/master/systems/fr-dpcn.json'
 ---
 
 ℹ️ This is a theoretical system based on Colorado [Front Range](https://en.wikipedia.org/wiki/Front_Range) ham communities. These organizations are examples and have not (yet) expressed interest in utilizing or helping construct FR-DPCN.
@@ -28,17 +29,15 @@ FR-DPCN uses [Motorola Solutions](https://www.motorolasolutions.com/en_us/produc
 
 ## Site locations
 
-* Cheyenne, WY
-* Ft. Collins, CO
-* Boulder, CO
-* Denver, CO
-* Colorado Springs, CO
+{{< div id="system-site-list" >}}
 
-## Talkgroups
+## Channels
 
 > Note to FR-DPCN users: Please remember to use private calling for extended one-on-one communications. Utilizing a wide-area channel ties up resources whereas private calls only utilize timeslots local to the respective repeater sites.
 
-See the [config file](https://github.com/DPCN-US/dpcn-config/blob/master/systems/fr-dpcn.json) for the latest talkgroups and channels.
+{{< div id="system-channel-list" >}}
+
+{{< system-lists >}}
 
 Notes about system usage:
 
