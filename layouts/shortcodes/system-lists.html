@@ -78,8 +78,6 @@
                     if (data.contacts[key]['channel']['sites'].length === Object.keys(data['sites']).length && !sites.includes("Local")) {
                         sites = ["All"];
                     }
-                    // sites.push(data.contacts[key]['channel']['sites'].length);
-                    // sites.push(Object.keys(data['sites']).length);
                     td22.appendChild(document.createTextNode(sites.join(", ")));
                     td23.appendChild(document.createTextNode(data.contacts[key]['channel']['description']));
                     append(tr2, td21);
