@@ -25,20 +25,26 @@
                 tr1 = createNode('tr');
             th11 = createNode('th');
             th12 = createNode('th');
+            th13 = createNode('th');
             append(th11, document.createTextNode("No."));
             append(th12, document.createTextNode("Name"));
+            append(th13, document.createTextNode("Status"));
             append(tr1, th11);
             append(tr1, th12);
+            append(tr1, th13);
             append(tbdy1, tr1);
             for (let key in data.sites) {
                 if (data.sites.hasOwnProperty(key)) {
                     let tr1 = createNode('tr'),
                         td11 = createNode('td'),
-                        td12 = createNode('td');
+                        td12 = createNode('td'),
+                        td13 = createNode('td');
                     td11.appendChild(document.createTextNode(key));
-                    td12.appendChild(document.createTextNode(data.sites[key]));
+                    td12.appendChild(document.createTextNode(data.sites[key]['name']));
+                    td13.appendChild(document.createTextNode(data.sites[key]['status']));
                     append(tr1, td11);
                     append(tr1, td12);
+                    append(tr1, td13);
                     append(tbdy1, tr1);
                 }
             }
