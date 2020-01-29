@@ -49,7 +49,7 @@ Notes about system usage:
 
 ## System Code Generation
 
-FR-DPCN uses an enhanced code to prevent co-channel interference and to prevent "bleed in" from adjacent DMR systems. This is because DMR only provides 16 color codes. To generate the appropriate code for the system, hash the system name using the [Shake-256](https://en.wikipedia.org/wiki/SHA-3) algorithm and configure the output for 40 bits[^2]. 
+FR-DPCN may use an enhanced code to prevent co-channel interference and to prevent "bleed in" from adjacent DMR systems. This is because DMR only provides 16 color codes. To generate the appropriate code for the system, hash the system name using the [Shake-256](https://en.wikipedia.org/wiki/SHA-3) algorithm and configure the output for 40 bits[^2].
 
 [^2]: 256 bits are available but Motorola refuses to enable this capability, even though it is an international standard and available on every other manufacturer's radios. Motorola's proprietary 40-bit implementation slightly degrades audio quality.
 
