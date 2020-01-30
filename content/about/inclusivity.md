@@ -2,7 +2,7 @@
 title: "An Inclusive Network"
 draft: false
 tags: ["about"]
-date: 2020-01-11
+date: 2020-01-29
 ---
 
 DPCN networks do not discriminate or exclude. Hams of all races, religions, ethnicities, orientations, and identities are welcome.
@@ -23,7 +23,7 @@ Visually impaired hams can add speech synthesis to their radios and the system a
 
 ## No restrictions
 
-Have as many radios on the system as you want, talk as much as you want, with whomever you want. You buy the radios and DPCN will program them and maintain them for you, typically over the air: codeplug updates be performed over RF and firmware upgrades over Wi-Fi.
+Have as many radios on the system as you want, talk as much as you want, with whomever you want. You buy the radios and DPCN will program them and maintain them for you, typically over the air: codeplug updates are performed over RF and firmware upgrades over Wi-Fi.
 
 Don't worry about offending other hams: when you want to talk to another specific ham, use private calling. Talk about whatever you want, from the mundane to the provocative. Local DPCN systems can organize talkgroups by subject matter as well as by clubs or other member organizations.
 
