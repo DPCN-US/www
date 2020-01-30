@@ -107,7 +107,7 @@ You do not have to come inside; merely parking on the street in front of the bui
 
 Each radio on the system must have a unique ID.
 
-Global IDs assigned by [RadioID.net](https://radioid.net/) will not work because Connect Plus radio IDs must be no greater than 65535. This means you may not be able to talk on [BrandMeister](https://brandmeister.network/) or other routed systems with your DPCN radio. 
+Global IDs assigned by [RadioID.net](https://radioid.net/) will not work because Capacity Plus radio IDs must be no greater than 65535. This means you may not be able to talk on [BrandMeister](https://brandmeister.network/) or other routed systems with your DPCN radio.
 
 When communicating on non-DPCN DMR systems, please explain this technical limitation to any hams who may complain that your radio ID is incorrect.
 
