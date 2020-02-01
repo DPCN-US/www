@@ -6,7 +6,7 @@ weight: 10
 date: 2020-01-13
 ---
 
-![Phil's professional headshot](/images/headshot-phil-cablelabs.jpg)
+![Phil's professional headshot](/images/headshots/phil.jpg)
 
 Phil's callsign is K0PRW. He has been licensed since 1997 and has an interest in technology and emergency preparedness. His roles at DPCN include founder, systems architect and engineer, president, webmaster, recruiter, and catchall.
 
@@ -16,7 +16,7 @@ He volunteered with [ARES](http://www.arrl.org/ares) while he was in Greeley, CO
 
 He holds a Master of Science in Software Engineering, a Master of Fine Arts in Cinema-Television Production, and a Bachelor of Arts in Musical Theater.
 
-He has a beautiful wife, Kelly (KE0TIJ), a beautiful son [Alexander](https://watt.ws/agw) (born on his birthday!), and a beautiful dog, Annie. His mother is also a ham (KC0ZBH), and she is beautiful as well. Alexander has not yet taken his Technician exam. 👶
+He has a beautiful wife, [Kelly](/about/team/kelly) (KE0TIJ), a beautiful son [Alexander](https://watt.ws/agw) (born on his birthday!), and a beautiful dog, Annie. His mother is also a ham (KC0ZBH), and she is beautiful as well. Alexander has not yet taken his Technician exam. 👶
 
 His other interests include:
 
