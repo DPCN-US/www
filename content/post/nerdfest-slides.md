@@ -7,7 +7,7 @@ author: "[Phil, K0PRW](/about/team/phil)"
 featured_image: '/images/five-bulb-lights-1036936.jpg'
 ---
 
-Here are the [slides](https://nextcloud.rosenberg-watt.com/s/tERK7s4YkMK2r5M) from [NerdFest](/2020/02/nerdfest-2020). The group was quite responsive and smart, too. Frequently the questions were at least one step ahead.
+Here are the [slides](https://nextcloud.rosenberg-watt.com/s/n3gz2HjDCXzRjkg) from [NerdFest](/2020/02/nerdfest-2020). The group was quite responsive and smart, too. Frequently the questions were at least one step ahead.
 
 <!--more-->
 
