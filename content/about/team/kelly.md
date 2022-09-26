@@ -12,5 +12,5 @@ Kelly's callsign is KE0TIJ. She has been licensed since 2019. Kelly obtained her
 
 <!--more-->
 
-Originally from central Illinois, Kelly moved to Colorado fifteen years ago to pursue a Master of Music from CU Boulder. She still performs occassionally in the Denver metro area, and she also enjoys making art, reading, and spending time with friends and family. Kelly has a son, [Alexander](https://watt.ws/agw), and a dog, [Annie](/about/team/annie) (as seen in her photo above).
+Originally from central Illinois, Kelly moved to Colorado fifteen years ago to pursue a Master of Music from CU Boulder. She still performs occassionally in the Denver metro area, and she also enjoys making art, reading, and spending time with friends and family. Kelly has a son, [Alexander](https://watt.ws/agw).
 
