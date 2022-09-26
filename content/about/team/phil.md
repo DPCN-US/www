@@ -16,7 +16,7 @@ He volunteered with [ARES](http://www.arrl.org/ares) while he was in Greeley, CO
 
 He holds a Master of Science in Software Engineering, a Master of Fine Arts in Cinema-Television Production, and a Bachelor of Arts in Musical Theater.
 
-He has a beautiful wife, [Kelly](/about/team/kelly) (KE0TIJ), a beautiful son [Alexander](https://watt.ws/agw) (born on his birthday!), and a beautiful dog, [Annie](/about/team/annie). His mother is also a ham (KC0ZBH), and she is beautiful as well. Alexander has not yet taken his Technician exam. 👶
+He has a beautiful wife, [Kelly](/about/team/kelly) (KE0TIJ), a beautiful son [Alexander](https://watt.ws/agw) (born on his birthday!). His mother is also a ham (KC0ZBH), and she is beautiful as well. Alexander has not yet taken his Technician exam. 👶
 
 His other interests include:
 
