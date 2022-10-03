@@ -33,7 +33,7 @@ Because DPCN radios are commercial and made by the same manufacturer, they can b
 * A common, up to date contact list, updated over the air.
 * Private call confirmation: know that your friend is online and in range of the system.
 * Ease of use: commercial radios are focused on the experience of everyday users, not just technically-minded hams.
-* Customizable: assign hotkeys to specific contacts, add your own contacts, customize your alert tone, turn on vibrate alerts, etc.
+* Customizable: assign keys to specific contacts, add your own contacts, customize your alert tone, turn on vibrate alerts, etc.
 
 ### Centralized codeplug management
 
