@@ -24,6 +24,7 @@ FR-DPCN uses [Motorola Solutions](https://www.motorolasolutions.com/en_us/produc
 | XPR7550e[^1] | H56RDN9RA1AN | 1-4W   | rugged portable             |
 | SL7550e[^1]  | H81QCN9TA2AN | 1-3W   | slim portable, digital only |
 | XPR5550e[^1] | M28QPN9RA1AN | 20-40W | mobile                      |
+| R7           | H06RDN9RA1AN | 1-5W   | portable                    |
 
 [^1]: The "e" models are required for Wi-Fi programming.
 
@@ -51,7 +52,7 @@ Notes about system usage:
 
 FR-DPCN may use an enhanced code to prevent co-channel interference and to prevent "bleed in" from adjacent DMR systems. This is because DMR only provides 16 color codes. To generate the appropriate code for the system, hash the system name using the [Shake-256](https://en.wikipedia.org/wiki/SHA-3) algorithm and configure the output for 40 bits[^2].
 
-[^2]: 256 bits are available but Motorola refuses to enable this capability, even though it is an international standard and available on every other manufacturer's radios. Motorola's proprietary 40-bit implementation slightly degrades audio quality.
+[^2]: 256 bits are available but Motorola refuses to enable this capability, even though it is an international standard and available on every other manufacturer's radios. Motorola's 40-bit implementation slightly degrades audio quality.
 
 There are numerous ways to accomplish this. For example:
 
@@ -90,7 +91,6 @@ You will be able to decode the system `Example DPCN` using that key.
 If a system administrator has notified you that an update is available for your radio, please proceed to one of the following locations at your earliest convenience:
 
 * Boulder County OEM
-* CableLabs
 * Residence of K0PRW
 
 Look for the DPCN logo so you know you're in the right place:
